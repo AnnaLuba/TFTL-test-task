@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'Grtsk Giga';
+    src: url('~@/assets/fonts/GrtskGiga-Semibold.eot'),
+    url('~@/assets/fonts/GrtskGiga-Semibold.ttf') format('truetype'),
+    url('~@/assets/fonts/GrtskGiga-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grtsk Giga';
+    src: url('~@/assets/fonts/GrtskGiga-Bold.eot'),
+    url('~@/assets/fonts/GrtskGiga-Bold.ttf') format('truetype'),
+    url('~@/assets/fonts/GrtskGiga-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grtsk Giga';
+    src: url('~@/assets/fonts/GrtskGiga-BoldItalic.eot'),
+    url('~@/assets/fonts/GrtskGiga-BoldItalic.ttf') format('truetype'),
+    url('~@/assets/fonts/GrtskGiga-BoldItalic.woff') format('woff');
+    font-weight: 700;
+    font-style: italic;
+}
+
+$grtsk-giga: 'Grtsk Giga';
+
+$gray: #E5E5E5;
+$d-gray: #373737;
+$yellow: #FFCB46;
+$white: #FFFFFF;
+$black: #000000;
