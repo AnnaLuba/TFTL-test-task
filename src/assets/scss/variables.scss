@@ -26,9 +26,16 @@
 }
 
 $grtsk-giga: 'Grtsk Giga';
-
-$gray: #E5E5E5;
+// colors
+$m-gray: #BEBEBE;
+$l-gray: #E5E5E5;
 $d-gray: #373737;
 $yellow: #FFCB46;
 $white: #FFFFFF;
 $black: #000000;
+
+//breakpoints
+$xl: 1200px;
+$lg: 1024px;
+$md: 768px;
+$sm: 375px;
